@@ -5,7 +5,6 @@ seoDescription: "Discover how music shapes personal growth and self-discovery, e
 datePublished: Sat Jul 12 2025 05:55:14 GMT+0000 (Coordinated Universal Time)
 cuid: cmczu08xd001802k4drtp4hey
 slug: not-relatable-or-maybe-too-relatable
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1752299602647/973ab219-9c02-43cc-a322-7689f065d06a.png
 tags: songs, rap-songs
 
 ---
